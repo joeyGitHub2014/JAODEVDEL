@@ -81,6 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
+                    Hi there!!
+                </div>
+                <div class="title m-b-md">
                     Joseph A. Orlando
                 </div>
 
