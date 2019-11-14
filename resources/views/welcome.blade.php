@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Joseph Orlando
+                    Joseph A. Orlando
                 </div>
 
 
