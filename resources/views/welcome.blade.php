@@ -84,7 +84,7 @@
                     <a href="{{ url('/about') }}">About</a>
                 </div>
                 <div class="title m-b-md">
-                    Hi there!!
+                    Hi there Joe!!
                 </div>
                 <div class="title m-b-md">
                     Joseph A. Orlando
