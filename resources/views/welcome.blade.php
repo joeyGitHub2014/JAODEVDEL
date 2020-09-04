@@ -84,7 +84,7 @@
                     <a href="{{ url('/about') }}">About</a>
                 </div>
                 <div class="title m-b-md">
-                    Hi there this is my new and improved web site Joseph Orlando !!
+                    Hi there this is my new and improved web site!
                 </div>
                 <div class="title m-b-md">
                     Joseph A. Orlando 
